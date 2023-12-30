@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GFG/static/css/main.bd128563.css",
+    "main.js": "/GFG/static/js/main.be345005.js",
+    "static/js/787.45365cb6.chunk.js": "/GFG/static/js/787.45365cb6.chunk.js",
+    "index.html": "/GFG/index.html",
+    "main.bd128563.css.map": "/GFG/static/css/main.bd128563.css.map",
+    "main.be345005.js.map": "/GFG/static/js/main.be345005.js.map",
+    "787.45365cb6.chunk.js.map": "/GFG/static/js/787.45365cb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd128563.css",
+    "static/js/main.be345005.js"
+  ]
+}
